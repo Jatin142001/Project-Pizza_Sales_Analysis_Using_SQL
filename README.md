@@ -4,12 +4,10 @@
 In this project, I utilized SQL queries to analyze pizza sales data, providing insights into customer preferences, revenue generation, and ordering trends.
 
 ## Key Objectives
-Understand sales performance and revenue trends.
-Identify the best-selling pizza sizes, types, and categories.
-Analyze order distribution by time.
-Determine the revenue contributions of different pizzas.
-
-## SQL Implementation
+- Understand sales performance and revenue trends.
+- Identify the best-selling pizza sizes, types, and categories.
+- Analyze order distribution by time.
+- Determine the revenue contributions of different pizzas.
 
 ### Database and Table Creation:
 Designed and structured tables for orders, order_details, pizzas, and pizza_types.
